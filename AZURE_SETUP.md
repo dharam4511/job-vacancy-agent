@@ -22,7 +22,7 @@ Your project has been updated to use **Azure OpenAI (GPT)** instead of Claude.
 Your `.env` file now contains:
 
 ```env
-AZURE_API_KEY=YOUR_AZURE_KEY_HERE
+AZURE_API_KEY=your-azure-api-key-here
 AZURE_API_ENDPOINT=https://fde-cohort1.cognitiveservices.azure.com/
 AZURE_API_VERSION=2024-02-15-preview
 AZURE_DEPLOYMENT_NAME=gpt-6-sol
