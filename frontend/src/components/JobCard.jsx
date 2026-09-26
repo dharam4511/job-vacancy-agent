@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, DollarSign, Briefcase, Globe, Mail, Phone } from 'lucide-react';
+import { MapPin, DollarSign, Briefcase, Globe, Mail } from 'lucide-react';
 
 export default function JobCard({ job }) {
   const handleContactClick = (contact) => {

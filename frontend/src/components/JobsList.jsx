@@ -4,7 +4,6 @@ import JobCard from './JobCard';
 
 export default function JobsList({ jobs, loading, state }) {
   const [searchTerm, setSearchTerm] = useState('');
-  const [filterType, setFilterType] = useState('all');
 
   const filteredJobs = jobs.filter(job => {
     const matchesSearch =
