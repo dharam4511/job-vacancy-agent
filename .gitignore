@@ -46,6 +46,10 @@ yarn-error.log
 .next/
 out/
 dist/
+frontend/build/
+
+# Vercel
+.vercel
 
 # OS
 .DS_Store
