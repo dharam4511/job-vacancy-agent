@@ -1,0 +1,10 @@
+langchain-openai>=0.1.0
+langchain>=0.2.0
+fastapi==0.104.1
+uvicorn==0.24.0
+httpx==0.25.1
+python-dotenv==1.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+openai>=1.0.0
