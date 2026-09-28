@@ -1,0 +1,11 @@
+# Ignore backend files - only build frontend
+main.py
+agent.py
+requirements.txt
+Procfile
+runtime.txt
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
